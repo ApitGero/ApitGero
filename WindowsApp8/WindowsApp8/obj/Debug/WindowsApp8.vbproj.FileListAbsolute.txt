@@ -1,0 +1,15 @@
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form2.resources
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form3.resources
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form4.resources
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+C:\Users\hafiz\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb
